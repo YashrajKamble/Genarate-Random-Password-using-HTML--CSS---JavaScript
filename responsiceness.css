@@ -1,0 +1,22 @@
+@media screen and (min-width: 400px) and (max-width: 500px) {
+  .container {
+    margin: 5%;
+    border-radius: 5px;
+    padding: 2%;
+    position: relative;
+    top: 100px;
+  }
+
+  .display input {
+    width: 40%;
+  }
+
+  .display img {
+    cursor: pointer;
+  }
+
+  .cr {
+    margin-top: 100%;
+    padding-top: 70%;
+  }
+}
